@@ -26,7 +26,7 @@ APP_CONFIG = {
     "APP_ICON": "🏭",
     
     # إعدادات GitHub
-    "REPO_NAME": "mahmedabdallh123/Elqds",
+    "REPO_NAME": "mahmedabdallh123/blow-room",
     "BRANCH": "main",
     "FILE_PATH": "l1.xlsx",
     "LOCAL_FILE": "l1.xlsx",
